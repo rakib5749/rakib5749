@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Mohammad Rakib Ahmed.
+#### Professional Frontend Developer.
+![Professional Frontend Developer.](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/209530872_865117151107082_2897430086215469669_n.jpg?_nc_cat=110&_nc_rgb565=1&ccb=1-5&_nc_sid=174925&_nc_ohc=g7Ne8AgJiTgAX8-qQDw&_nc_ht=scontent.fdac5-1.fna&oh=791c0327c17da840d55131497f2f2af1&oe=61723423)
 
-<!--
-**rakib5749/rakib5749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Mohammad Rakib Ahmed. I'm a professional Frontend Developer. I already have gathered some of the core skills like "HTML5, CSS3, BOOTSTRAP4, JAVASCRIPT with JQUERY. I am also learning some advanced frameworks like" React js, Tailwind Css". 
+Thanks & Regards
+Rakib
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / JQUERY / BOOSTRAP / TAILWIND CSS / REACT JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
